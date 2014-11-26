@@ -1,3 +1,4 @@
+name              "chef-sinatra"
 maintainer        "CrowdMob Inc."
 maintainer_email  "developers@crowdmob.com"
 license           "Apache 2.0"
